@@ -19,10 +19,12 @@ Một số đối tượng dữ liệu có thể thay đổi về cấu trúc, �
 - Sử dụng bộ nhớ không hiệu quả( do dữ liệu tĩnh sẽ chiếm vùng nhớ đã dành cho chúng suốt quá trình hoạt động của chương trình )
 
 <br>Cấu trúc dữ liệu tĩnh: Ví dụ: Mảng 1 chiều
+
 - Kích thước cố định (fixed size)
 - Chèn 1 phần tử vào mảng rất khó
 - Các phần tử tuần tự theo chỉ số 0 đến n-1
 - Truy cập ngẫu nhiên (random access)
+
 [![Thao tác trên mảng](./images/thaoTacTrenMang.png "Thao tác trên mảng")](# "Thao tác trên mảng")
 
 **Hướng giải quyết**
